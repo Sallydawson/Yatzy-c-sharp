@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{6DBA3FE9-05EA-4734-B518-89124C9D5ACB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Yatzy_spil/Muligheder.cs">
+    <Files>
+      <File FileName="Yatzy_spil/Program.cs" Line="6" Column="5" />
+      <File FileName="Yatzy_spil/MainWindow.cs" Line="26" Column="70" />
+      <File FileName="Yatzy_spil/terning.cs" Line="8" Column="16" />
+      <File FileName="Yatzy_spil/bæger.cs" Line="76" Column="14" />
+      <File FileName="Yatzy_spil/Muligheder.cs" Line="7" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Yatzy__spil PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
